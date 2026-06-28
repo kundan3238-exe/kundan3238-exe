@@ -266,14 +266,6 @@
 
 ---
 
-## 💬 Dev Philosophy
-
-<div align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
----
-
 ## 📬 Let's Build Something Great
 
 <div align="center">
