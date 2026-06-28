@@ -208,14 +208,6 @@
 
 ---
 
-## 🏆 Achievement Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kundan3238-exe&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&row=2"/>
-</div>
-
----
-
 ## 📊 Contribution Timeline
 
 <div align="center">
