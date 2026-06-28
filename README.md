@@ -9,7 +9,6 @@
 
 <!-- ANIMATED TYPING SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=780&height=58&lines=Full+Stack+Java+Developer;MERN+Stack+Engineer;Building+Scalable+Applications;Project+Lead+%7C+Team+of+6;Open+To+SDE+Roles+in+2026" alt="Kundan's typing animation"/>
-
 <br/><br/>
 
 <!-- PROFILE VIEWS + DYNAMIC GITHUB METRICS -->
