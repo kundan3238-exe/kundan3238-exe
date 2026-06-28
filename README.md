@@ -1,30 +1,59 @@
-# <h1 align="center">Hi, I'm Kundan Atel</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Java Developer | MERN Stack Developer | Front-End Specialist<br>
-G H Raisoni University, Nagpur | DSA Enthusiast
-</h3>
+# Hi 👋, I'm Kundan Atel
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=650&lines=Full-Stack+Java+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Learning+DSA+%26+Software+Engineering"/>
-</p>
+### 🚀 Full Stack Java Developer • MERN Stack Developer • Front-End Specialist
 
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;MERN+Stack+Developer;Building+Scalable+Software;Learning+DSA+%26+System+Design"/>
 
-## 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=kundan3238-exe&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-* 🎓 BCA Student at **G H Raisoni University, Nagpur** (CGPA: **8.7/10**)
-* 💻 Full-Stack Java & MERN Stack Developer
-* 🌱 Currently learning **Algorithmic Solutions, Unit Testing & Integration Testing**
-* 🚀 Passionate about building scalable and responsive web applications
-* 📚 Actively preparing for Software Development Engineer opportunities
-* 🤝 Interested in System Design, REST APIs, Clean Code & Agile Development
+<a href="https://github.com/kundan3238-exe">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kundan-atel-628045379/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kundan.atel8899@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# 💫 About Me
 
-<p align="center">
+🎓 **Bachelor of Computer Applications (BCA)**
+📍 G H Raisoni University, Nagpur
+
+💻 Passionate Full Stack Java & MERN Developer who enjoys building scalable software and solving real-world problems.
+
+🌱 Currently Learning
+
+* Data Structures & Algorithms
+* System Design
+* Unit Testing
+* Integration Testing
+* CI/CD Pipelines
+
+💡 Interested In
+
+* Full Stack Development
+* Software Engineering
+* REST APIs
+* Clean Code
+* Agile Development
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
@@ -33,71 +62,144 @@ G H Raisoni University, Nagpur | DSA Enthusiast
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+
+</p>
+
+## Backend
+
+<p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+
+</p>
+
+## Databases
+
+<p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+
+</p>
+
+## Tools
+
+<p>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 📈 Skills
 
-## ⚖️ Nyaya Setu-AI — AI Powered Legal Assistant Platform
+```text
+Java               ██████████████████░░ 90%
 
-**Tech Stack:** HTML5, CSS3, JavaScript, REST APIs, AI Modules
+React.js           █████████████████░░░ 85%
 
-* Led a cross-functional team to build an AI-powered legal awareness platform.
-* Integrated AI chatbot modules with REST APIs for real-time legal assistance.
-* Implemented Agile sprint planning, Git workflow, and technical documentation.
-* Designed a responsive and accessible frontend following clean code principles.
+Node.js            █████████████████░░░ 85%
+
+MongoDB            ████████████████░░░░ 80%
+
+Spring Boot        ███████████████░░░░░ 75%
+
+REST APIs          █████████████████░░░ 85%
+
+JavaScript         █████████████████░░░ 85%
+
+HTML/CSS           ███████████████████░ 95%
+
+Git & GitHub       █████████████████░░░ 85%
+
+DSA                ██████████████░░░░░░ 70%
+```
+
+---
+
+# 🚀 Featured Projects
+
+## ⚖️ Nyaya Setu AI
+
+### AI Powered Legal Assistant Platform
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • REST APIs • AI
+
+### Highlights
+
+* Led a cross-functional development team.
+* Built responsive frontend following accessibility standards.
+* Integrated AI chatbot with backend APIs.
+* Followed Agile methodology and Git workflow.
+* Authored technical documentation and project reports.
 
 ---
 
 ## 👨‍💼 Employee Management System
 
-**Tech Stack:** React.js, Node.js, MongoDB, REST APIs
+**React • Node.js • MongoDB • Express**
 
-* Built a full-stack CRUD application with dynamic dashboards.
-* Implemented advanced filtering and responsive UI.
-* Integrated REST APIs for seamless data operations.
-* Optimized performance and followed component-based architecture.
+✔ CRUD Operations
 
----
+✔ Dashboard Analytics
 
-## 📱 Custom QR Code Generator & Scanner
+✔ Multi-field Search
 
-**Tech Stack:** JavaScript, Web APIs, HTML5, CSS3
+✔ REST API Integration
 
-* Developed a real-time QR Code Generator with live preview.
-* Added logo embedding, color customization, and pattern selection.
-* Ensured responsive design and cross-browser compatibility.
+✔ Responsive UI
+
+✔ Component-Based Architecture
 
 ---
 
-# 📊 GitHub Stats
+## 📱 QR Code Generator & Scanner
 
-<p align="center">
+**JavaScript • HTML • CSS • Browser APIs**
+
+✔ Live QR Preview
+
+✔ Logo Embedding
+
+✔ Color Customization
+
+✔ Download QR
+
+✔ Responsive Design
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=kundan3238-exe&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kundan3238-exe&theme=tokyonight"/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan3238-exe&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan3238-exe&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundan3238-exe&theme=tokyo-night"/>
 
 </p>
 
@@ -107,49 +209,70 @@ G H Raisoni University, Nagpur | DSA Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kundan3238-exe&theme=onestar&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kundan3238-exe&theme=algolia&margin-w=15&no-frame=true"/>
 
 </p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 
 ---
 
 # 📜 Certifications
 
-* **Full Stack Java Developer** — Skillected Education by JSSAV Pvt. Ltd.
-* **Full Stack Java Internship** — Skillected Education by JSSAV Pvt. Ltd.
-* **Web Development Internship** — Codveda Technologies
+🏅 Full Stack Java Developer — Skillected Education
+
+🏅 Full Stack Java Internship — Skillected Education
+
+🏅 Web Development Internship — Codveda Technologies
 
 ---
 
-# 🏅 Achievements
+# 🎯 Current Focus
 
-* 🏆 Led the development of **Nyaya Setu-AI**, an AI-powered legal assistance platform using Agile methodology.
-* 💯 Built multiple production-ready Full-Stack software applications using Java, React, Node.js, MongoDB, and Spring Boot.
-* 📖 Maintained an academic CGPA of **8.7/10** while actively developing industry-level projects.
-* 👨‍💻 Experienced in REST APIs, System Design, SDLC, Agile Development, and Clean Code practices.
+```text
+🔭 Building scalable Full Stack Applications
 
----
+🌱 Mastering DSA
 
-# 📫 Connect With Me
+📚 Exploring System Design
 
-**GitHub**
+⚡ Improving Backend Development
 
-https://github.com/kundan3238-exe
-
-**LinkedIn**
-
-https://www.linkedin.com/in/kundan-atel-628045379/
-
-**Email**
-
-[kundan.atel8899@gmail.com](mailto:kundan.atel8899@gmail.com)
+🚀 Preparing for Software Development Engineer Roles
+```
 
 ---
+
+# 📬 Connect With Me
 
 <p align="center">
 
-### 💡 *Keep Learning • Keep Building • Keep Growing* 🚀
+<a href="mailto:kundan.atel8899@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/kundan3238-exe">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kundan-atel-628045379/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </p>
+
+---
+
+<div align="center">
+
+## 💭 Quote of the Day
+
+*"First, solve the problem. Then, write the code."*
+
+**– John Johnson**
+
+---
+
+### ⭐ If you like my work, consider starring my repositories!
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+</div>
