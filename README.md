@@ -9,6 +9,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=780&height=58&lines=Full+Stack+Java+Developer;MERN+Stack+Engineer;Building+Scalable+Applications;Project+Lead+%7C+Team+of+6;Open+To+SDE+Roles+in+2026" alt="Kundan's typing animation"/>
+
 <br/><br/>
 
 <!-- PROFILE VIEWS + DYNAMIC GITHUB METRICS -->
@@ -210,7 +211,7 @@
 ## 🏆 Achievement Wall
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kundan3238-exe&theme=radical&no-frame=true&margin-w=12&column=7&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kundan3238-exe&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&row=2"/>
 </div>
 
 ---
@@ -219,6 +220,18 @@
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kundan3238-exe&bg_color=0D1117&color=FF6B2B&line=FF9A3D&point=FFFFFF&area=true&area_color=FF6B2B&hide_border=true&custom_title=Kundan%27s%20Contribution%20Activity"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
