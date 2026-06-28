@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=780&height=58&lines=⚡+Full+Stack+Java+Developer;⚛️+MERN+Stack+Engineer;🚀+Scalable+Software+Builder;💡+Project+Lead+%7C+Team+of+Six;🍊+Nagpur%27s+Rising+Tech+Star" alt="Kundan's typing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=780&height=58&lines=Full+Stack+Java+Developer;MERN+Stack+Engineer;Building+Scalable+Applications;Project+Lead+%7C+Team+of+6;Open+To+SDE+Roles+in+2026" alt="Kundan's typing animation"/>
 
 <br/><br/>
 
@@ -199,7 +199,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kundan3238-exe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B2B&icon_color=FF9A3D&text_color=FFFFFF&ring_color=FF6B2B&count_private=true&include_all_commits=true"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kundan3238-exe&hide_border=true&background=0D1117&ring=FF6B2B&fire=FF9A3D&currStreakLabel=FF6B2B&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=AAAAAA&dates=888888"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=kundan3238-exe&hide_border=true&background=0D1117&ring=FF6B2B&fire=FF9A3D&currStreakLabel=FF6B2B&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=AAAAAA&dates=888888"/>
 </div>
 
 <div align="center">
@@ -221,49 +221,6 @@
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kundan3238-exe&bg_color=0D1117&color=FF6B2B&line=FF9A3D&point=FFFFFF&area=true&area_color=FF6B2B&hide_border=true&custom_title=Kundan%27s%20Contribution%20Activity"/>
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ <b>Enable the Snake Animation</b> (click to expand)</summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo with this content:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-permissions: { contents: write }
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: kundan3238-exe
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 ---
 
