@@ -1,278 +1,354 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║            KUNDAN ATEL — GITHUB PROFILE README              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!-- ANIMATED HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B2B,50:FF9A3D,100:FFD166&height=230&section=header&text=Kundan%20Atel&fontSize=88&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20Nagpur%2C%20India%20🍊&descAlignY=64&descSize=19&descColor=FFF0E0"/>
+
 <div align="center">
 
-# Hi 👋, I'm Kundan Atel
+<!-- ANIMATED TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=780&height=58&lines=⚡+Full+Stack+Java+Developer;⚛️+MERN+Stack+Engineer;🚀+Scalable+Software+Builder;💡+Project+Lead+%7C+Team+of+Six;🍊+Nagpur%27s+Rising+Tech+Star" alt="Kundan's typing animation"/>
 
-### 🚀 Full Stack Java Developer • MERN Stack Developer • Front-End Specialist
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;MERN+Stack+Developer;Building+Scalable+Software;Learning+DSA+%26+System+Design"/>
+<!-- PROFILE VIEWS + DYNAMIC GITHUB METRICS -->
+<img src="https://komarev.com/ghpvc/?username=kundan3238-exe&label=👁️+Profile+Views&color=FF6B2B&style=for-the-badge"/>
+&nbsp;
+<a href="https://github.com/kundan3238-exe?tab=followers">
+  <img src="https://img.shields.io/github/followers/kundan3238-exe?style=for-the-badge&logo=github&color=1A1A2E&labelColor=FF6B2B&label=Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/kundan3238-exe?tab=stars">
+  <img src="https://img.shields.io/github/stars/kundan3238-exe?style=for-the-badge&logo=github&color=1A1A2E&labelColor=FF9A3D&label=Stars"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=kundan3238-exe&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br/><br/>
 
+<!-- OPEN TO WORK — BOLD RECRUITER SIGNAL -->
+<img src="https://img.shields.io/badge/🚀%20OPEN%20TO%20WORK-Actively%20Seeking%20SDE%20Roles-4CAF50?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
 <a href="https://github.com/kundan3238-exe">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/kundan-atel-628045379/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:kundan.atel8899@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🧑‍💻 About Me
 
-🎓 **Bachelor of Computer Applications (BCA)**
-📍 G H Raisoni University, Nagpur
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(1).gif"/>
 
-💻 Passionate Full Stack Java & MERN Developer who enjoys building scalable software and solving real-world problems.
+```json
+{
+  "name"       : "Kundan Atel",
+  "role"       : "Full Stack Developer",
+  "education"  : "BCA — G H Raisoni University (2026)",
+  "location"   : "Nagpur, Maharashtra 🍊 (Orange City)",
+  "experience" : "Full Stack Java Intern @ Skillected Education",
+  "target"     : ["Deloitte", "Infosys", "Top-Tier SDE Roles"],
+  "stack"      : ["MERN", "Java", "Spring Boot", "REST APIs"],
+  "strengths"  : ["Team Leadership", "Agile", "Clean Code"],
+  "status"     : "✅ Available Immediately"
+}
+```
 
-🌱 Currently Learning
-
-* Data Structures & Algorithms
-* System Design
-* Unit Testing
-* Integration Testing
-* CI/CD Pipelines
-
-💡 Interested In
-
-* Full Stack Development
-* Software Engineering
-* REST APIs
-* Clean Code
-* Agile Development
+<br clear="right"/>
 
 ---
 
-# 🛠 Tech Stack
+## 💎 What I Bring to the Table
 
-## Frontend
+<div align="center">
 
-<p>
+| 🚀 Technical Depth | 👥 Leadership | 🎯 Work Style |
+|:---:|:---:|:---:|
+| MERN Stack Expert | **Led 6-person dev team** | Agile / SDLC |
+| Java & Spring Boot | Agile Sprint Planning | Clean Code Advocate |
+| REST API Design | Technical Documentation | Problem-First Thinker |
+| Responsive UI/UX | Cross-functional Collab | Continuous Learner |
+| MongoDB & MySQL | Code Reviews & QA | Git Workflow Pro |
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+</div>
 
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap&theme=dark&perline=8"/>
 </p>
 
-## Backend
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php&theme=dark&perline=8"/>
 </p>
 
-## Databases
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark&perline=8"/>
 </p>
 
-## Tools
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-
+### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark&perline=8"/>
 </p>
 
 ---
 
-# 📈 Skills
+## 📊 Proficiency Map
 
 ```text
-Java               ██████████████████░░ 90%
-
-React.js           █████████████████░░░ 85%
-
-Node.js            █████████████████░░░ 85%
-
-MongoDB            ████████████████░░░░ 80%
-
-Spring Boot        ███████████████░░░░░ 75%
-
-REST APIs          █████████████████░░░ 85%
-
-JavaScript         █████████████████░░░ 85%
-
-HTML/CSS           ███████████████████░ 95%
-
-Git & GitHub       █████████████████░░░ 85%
-
-DSA                ██████████████░░░░░░ 70%
+ ┌─────────────────────────────────────────────────────────┐
+ │  CORE STACK                                             │
+ ├─────────────────────────────────────────────────────────┤
+ │  HTML / CSS       ███████████████████▓  95%  Expert    │
+ │  Java             ██████████████████░░  90%  Advanced  │
+ │  React.js         █████████████████░░░  85%  Advanced  │
+ │  Node.js          █████████████████░░░  85%  Advanced  │
+ │  JavaScript       █████████████████░░░  85%  Advanced  │
+ │  REST APIs        █████████████████░░░  85%  Advanced  │
+ │  Git & GitHub     █████████████████░░░  85%  Advanced  │
+ │  MongoDB          ████████████████░░░░  80%  Proficient│
+ │  Spring Boot      ███████████████░░░░░  75%  Proficient│
+ │  DSA              ██████████████░░░░░░  70%  Growing ⬆│
+ └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## ⚖️ Nyaya Setu AI
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### AI Powered Legal Assistant Platform
+<h3 align="center">⚖️ Nyaya Setu AI</h3>
+<div align="center">
+  <a href="https://github.com/kundan3238-exe">
+    <img src="https://img.shields.io/badge/🔗_Live_Project-Nyaya_Setu_AI-FF6B2B?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
 
-**Tech Stack**
+> **AI-Powered Legal Assistance Platform**
 
-HTML • CSS • JavaScript • REST APIs • AI
+🎯 **Role:** Project Lead — Cross-functional Team of 6
 
-### Highlights
-
-* Led a cross-functional development team.
-* Built responsive frontend following accessibility standards.
-* Integrated AI chatbot with backend APIs.
-* Followed Agile methodology and Git workflow.
-* Authored technical documentation and project reports.
-
----
-
-## 👨‍💼 Employee Management System
-
-**React • Node.js • MongoDB • Express**
-
-✔ CRUD Operations
-
-✔ Dashboard Analytics
-
-✔ Multi-field Search
-
-✔ REST API Integration
-
-✔ Responsive UI
-
-✔ Component-Based Architecture
-
----
-
-## 📱 QR Code Generator & Scanner
-
-**JavaScript • HTML • CSS • Browser APIs**
-
-✔ Live QR Preview
-
-✔ Logo Embedding
-
-✔ Color Customization
-
-✔ Download QR
-
-✔ Responsive Design
-
----
-
-# 📊 GitHub Analytics
+- 🏗️ Architected full project using **Agile / SDLC** lifecycle
+- 🤖 Integrated AI chatbot with REST API backend
+- 📱 Built WCAG-compliant, responsive frontend
+- 📝 Led sprints, code reviews & technical documentation
+- 👥 Managed team velocity & delivery milestones
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kundan3238-exe&show_icons=true&theme=tokyonight"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Integration-FF6B2B?style=flat-square&logo=openai&logoColor=white)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kundan3238-exe&theme=tokyonight"/>
+</div>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan3238-exe&layout=compact&theme=tokyonight"/>
+<h3 align="center">📱 QR Code Generator</h3>
+<div align="center">
+  <a href="https://github.com/kundan3238-exe">
+    <img src="https://img.shields.io/badge/🔗_Live_Project-QR_Generator-FF9A3D?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
+
+> **Custom QR Code Generator & Scanner**
+
+- ✅ Real-time QR generation with live preview
+- 🎨 Custom color themes & brand logo embedding
+- 📥 One-click high-resolution download
+- 🔍 Built-in QR scanner with browser APIs
+- 📐 Pixel-perfect responsive design
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kundan3238-exe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B2B&icon_color=FF9A3D&text_color=FFFFFF&ring_color=FF6B2B&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kundan3238-exe&hide_border=true&background=0D1117&ring=FF6B2B&fire=FF9A3D&currStreakLabel=FF6B2B&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=AAAAAA&dates=888888"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan3238-exe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B2B&text_color=FFFFFF&langs_count=10&card_width=500"/>
+</div>
+
+---
+
+## 🏆 Achievement Wall
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kundan3238-exe&theme=radical&no-frame=true&margin-w=12&column=7&no-bg=true"/>
+</div>
+
+---
+
+## 📊 Contribution Timeline
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kundan3238-exe&bg_color=0D1117&color=FF6B2B&line=FF9A3D&point=FFFFFF&area=true&area_color=FF6B2B&hide_border=true&custom_title=Kundan%27s%20Contribution%20Activity"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/kundan3238-exe/kundan3238-exe/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<details>
+<summary>⚙️ <b>Enable the Snake Animation</b> (click to expand)</summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo with this content:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+permissions: { contents: write }
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kundan3238-exe
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuing Organization | 🎯 Domain |
+|:---|:---|:---|
+| Full Stack Java Developer | Skillected Education — JSSAV Pvt. Ltd. | Java • Spring Boot • MERN Stack |
+| Full Stack Java Internship | Skillected Education — JSSAV Pvt. Ltd. | Full Stack Development |
+| Web Development Internship | Codveda Technologies | Frontend • Backend Development |
+
+<br/>
+
+<img src="https://img.shields.io/badge/🏅_Certified-Full_Stack_Java_Developer-FF6B2B?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏅_Certified-Web_Development-FF9A3D?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundan3238-exe&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kundan3238-exe&theme=algolia&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📜 Certifications
-
-🏅 Full Stack Java Developer — Skillected Education
-
-🏅 Full Stack Java Internship — Skillected Education
-
-🏅 Web Development Internship — Codveda Technologies
-
----
-
-# 🎯 Current Focus
+## 🎯 2026 Growth Roadmap
 
 ```text
-🔭 Building scalable Full Stack Applications
+ Mastery Progress ────────────────────────────────────────────
 
-🌱 Mastering DSA
-
-📚 Exploring System Design
-
-⚡ Improving Backend Development
-
-🚀 Preparing for Software Development Engineer Roles
+ MERN Stack          [████████████████████] ✅ Mastered
+ Java / Spring Boot  [██████████████████░░] ✅ Advanced
+ REST API Design     [██████████████████░░] ✅ Advanced
+ DSA & LeetCode      [████████████░░░░░░░░] 🔄 In Progress
+ System Design       [███████████░░░░░░░░░] 🔄 In Progress
+ Unit / Integration  [█████████░░░░░░░░░░░] 🔄 In Progress
+ CI/CD & Docker      [████████░░░░░░░░░░░░] 📅 Planned
+ TypeScript          [██████░░░░░░░░░░░░░░] 📅 Planned
+ AWS / Cloud         [████░░░░░░░░░░░░░░░░] 📅 Planned
 ```
 
 ---
 
-# 📬 Connect With Me
+## 💬 Dev Philosophy
 
-<p align="center">
-
-<a href="mailto:kundan.atel8899@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/kundan3238-exe">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kundan-atel-628045379/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+<div align="center">
+  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
 
 ---
+
+## 📬 Let's Build Something Great
 
 <div align="center">
 
-## 💭 Quote of the Day
+<p>
+  I'm actively seeking <strong>Software Engineering roles</strong> where I can build scalable products and grow fast.<br/>
+  If you're hiring a passionate Full Stack Developer — <strong>let's talk!</strong>
+</p>
 
-*"First, solve the problem. Then, write the code."*
+<a href="mailto:kundan.atel8899@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-kundan.atel8899@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**– John Johnson**
+<br/><br/>
 
----
+<a href="https://github.com/kundan3238-exe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kundan-atel-628045379/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:kundan.atel8899@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### ⭐ If you like my work, consider starring my repositories!
+<br/><br/>
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
+<img src="https://img.shields.io/badge/⭐_Found_this_useful%3F-Star_my_repos!-FF6B2B?style=for-the-badge"/>
+
+<br/><br/>
+
+### 🚀 Keep Learning &nbsp;•&nbsp; Keep Building &nbsp;•&nbsp; Keep Growing
 
 </div>
+
+<!-- ANIMATED FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD166,50:FF9A3D,100:FF6B2B&height=130&section=footer"/>
